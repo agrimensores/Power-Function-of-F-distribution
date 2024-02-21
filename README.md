@@ -6,3 +6,5 @@ The files contains original power function computation and its solution for the 
 3.	Algorithm for NP solution of power function: (powernp2.m)
 4.	Newton algorithm for NP solution of power function: (powernp_newton.m)
 5.	Newton algorithm for NP solution of power function: (powernp_newtonE.m)
+
+https://doi.org/10.5281/zenodo.10688459
