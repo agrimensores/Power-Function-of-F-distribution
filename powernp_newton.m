@@ -56,11 +56,9 @@ if L>10^6
     error('Solution is out of capacity')
 end
 
-if L>5*10^3
-    eps2=10^-2;
-else
-    eps2=10^-6;
-end
+
+eps2=10^-6;
+
 
 while true
 
