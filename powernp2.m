@@ -26,8 +26,9 @@ function delta=powernp2(alfa,power,h,f)
 %of the non-centrality parameter, Journal of Geodesy
 %[2] Aydin C (2012), Power of global test in deformation analysis, 
 %Journal of Surveying Engineering.
-%[3] Aydin C and Gunes O (2023), Power function of F-distribution:
-%Revisiting its computation and solution for geodetic studies.
+%[3] Aydin C and Gunes O (2024). Power function of F-distribution: 
+% Revisiting its computation and solution for geodetic studies, 
+% Journal of Geodesy, 98, https://doi.org/10.1007/s00190-024-01905-7.
 %--------------------------------------------------------------------------
 
 %%
