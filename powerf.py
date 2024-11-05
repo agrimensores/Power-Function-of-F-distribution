@@ -22,7 +22,8 @@ def powerf(alfa, h, f, np):
 #------------------------------------------------------------------------------
 #References:
 #[1] Aydin C and Gunes O (2024). Power function of F-distribution: 
-# Revisiting its computation and solution for geodetic studies, Journal of Geodesy, 98, https://doi.org/10.1007/s00190-024-01905-7
+# Revisiting its computation and solution for geodetic studies, 
+# Journal of Geodesy, 98, https://doi.org/10.1007/s00190-024-01905-7
 #------------------------------------------------------------------------------
     if f>1e12: #this is for saving time. To see whether it works even for f>10^10, remove this line
         f=1e12
