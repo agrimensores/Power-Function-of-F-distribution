@@ -19,8 +19,8 @@ function p=powerf(alfa,h,f,NP)
 %       https://avesis.yildiz.edu.tr/caydin
 %--------------------------------------------------------------------------
 %References:
-%[1] Aydin C and Gunes O (2023), Power function of F-distribution:
-%Revisiting its computation and solution for geodetic studies.
+%[1] Aydin C and Gunes O (2024). Power function of F-distribution: 
+% Revisiting its computation and solution for geodetic studies, Journal of Geodesy, 98, https://doi.org/10.1007/s00190-024-01905-7
 %--------------------------------------------------------------------------
 
 %%
