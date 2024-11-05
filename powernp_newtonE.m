@@ -21,8 +21,9 @@ function np=powernp_newtonE(alfa,power,h,f)
 %           https://avesis.yildiz.edu.tr/caydin
 %--------------------------------------------------------------------------
 %References:
-%[1] Aydin C and Gunes O (2023), Power function of F-distribution:
-%Revisiting its computation and solution for geodetic studies.
+%[1] Aydin C and Gunes O (2024). Power function of F-distribution: 
+% Revisiting its computation and solution for geodetic studies, 
+% Journal of Geodesy, 98, https://doi.org/10.1007/s00190-024-01905-7
 %[2] Guirgus GH (1990), A note on computing the noncentrality 
 %parameter of the noncentral F-distribution, Communications in Statistics
 %-Simulation and Computation,19:4, 1497-1511.
